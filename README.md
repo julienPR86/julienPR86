@@ -10,17 +10,17 @@
 
 ---
 
--  C
--  C++
+- C
+- C++
 
 ### Tools and technologies
 
 ---
 
--  git
--  make
-- 󰨞 VS code
--  Linux
+- git
+- make
+- VS code
+- Linux
 
 ## Contact
 
