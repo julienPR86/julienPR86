@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**julienPR86/julienPR86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🎓 42 Angoulême student
+- 📖 Currently working on Webserv, a 42 project.
+- 💡 Interested in low level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages
+
+---
+
+-  C
+-  C++
+
+### Tools and technologies
+
+---
+
+-  git
+-  make
+- 󰨞 VS code
+-  Linux
+
+## Contact
+
+- 📮 Mail: <julien.pr86@gmail.com>
